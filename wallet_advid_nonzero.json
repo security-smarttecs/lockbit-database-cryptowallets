@@ -1,0 +1,171 @@
+[
+  {
+    "user": "Swan",
+    "avid": "70",
+    "address": "bc1q8980rpzy9f6meq8hur75ept62aug6dfrxnlwc0",
+    "balance_sats": 5000000,
+    "balance_btc": 0.05,
+    "revenue_btc": 0.25,
+    "revenue_eur": 22905.48
+  },
+  {
+    "user": "Swan",
+    "avid": "70",
+    "address": "bc1q5tanumnzxuhk0vxkmaqvhqgnq6sf0855trrmjw",
+    "balance_sats": 422110000,
+    "balance_btc": 4.2211,
+    "revenue_btc": 22.37932286,
+    "revenue_eur": 2049724.00
+  },
+  {
+    "user": "Iofikdis",
+    "avid": "65",
+    "address": "bc1q9ks759pfsg7gmrl66qpke8qds4f76l5h822tz9",
+    "balance_sats": 1380000,
+    "balance_btc": 0.0138,
+    "revenue_btc": 0.069,
+    "revenue_eur": 6325.13
+  },
+  {
+    "user": "btcdrugdealer",
+    "avid": "55",
+    "address": "bc1qkhmyzj4kswwhrkdrt3ww0v2cvqrzcgh2jvpt8q",
+    "balance_sats": 465493,
+    "balance_btc": 0.00465493,
+    "revenue_btc": 0.02327466,
+    "revenue_eur": 2133.71
+  },
+  {
+    "user": "JamesCraig",
+    "avid": "43",
+    "address": "bc1q8mhmgckl7afmehe4vj7kmej2yxdj2rzft9juk6",
+    "balance_sats": 340000,
+    "balance_btc": 0.0034,
+    "revenue_btc": 0.017,
+    "revenue_eur": 1558.49
+  },
+  {
+    "user": "Dezed941",
+    "avid": "42",
+    "address": "bc1qzyrrasx3cgjqme50jfu5kz0xjjheu8smy6del0",
+    "balance_sats": 2000,
+    "balance_btc": 0.00002,
+    "revenue_btc": 0.00006371,
+    "revenue_eur": 5.84
+  },
+  {
+    "user": "umarbishop47",
+    "avid": "28",
+    "address": "bc1qx3e4eslyzhclzr4y4yexw3jhyw5n4xe4vakgvt",
+    "balance_sats": 7191141,
+    "balance_btc": 0.07191141,
+    "revenue_btc": 0.29739924,
+    "revenue_eur": 27264.35
+  },
+  {
+    "user": "Christopher",
+    "avid": "25",
+    "address": "bc1qmydvt6xz9rkw36yvw2qztgxexz8dp40pxgklhq",
+    "balance_sats": 10400000,
+    "balance_btc": 0.104,
+    "revenue_btc": 0.51889581,
+    "revenue_eur": 47573.48
+  },
+  {
+    "user": "Christopher",
+    "avid": "25",
+    "address": "bc1q5xpf5anwuz75vhlc00g2ec6teu3zvud3axeqcw",
+    "balance_sats": 4621000,
+    "balance_btc": 0.04621,
+    "revenue_btc": 0.245,
+    "revenue_eur": 22429.79
+  },
+  {
+    "user": "Christopher",
+    "avid": "25",
+    "address": "bc1q5xt7padm8nmytf8h048uaw6el2vdn0h8fj8ju4",
+    "balance_sats": 9468000,
+    "balance_btc": 0.09468,
+    "revenue_btc": 0.4872868,
+    "revenue_eur": 44616.37
+  },
+  {
+    "user": "Christopher",
+    "avid": "25",
+    "address": "bc1qthvjqlelj2fkr8d6u06mq27je07j9hek2g0nj2",
+    "balance_sats": 3139000,
+    "balance_btc": 0.03139,
+    "revenue_btc": 0.1567,
+    "revenue_eur": 14338.29
+  },
+  {
+    "user": "Christopher",
+    "avid": "25",
+    "address": "bc1qkusslhuvaxjqcyvk8ql5uzgsx9ql5xsmmr5hfj",
+    "balance_sats": 2901000,
+    "balance_btc": 0.02901,
+    "revenue_btc": 0.14557,
+    "revenue_eur": 13319.88
+  },
+  {
+    "user": "Christopher",
+    "avid": "25",
+    "address": "bc1qv4j45knlkeazg0n0ymv3e3rpcv4gc8qqmrhp20",
+    "balance_sats": 3113000,
+    "balance_btc": 0.03113,
+    "revenue_btc": 0.156414,
+    "revenue_eur": 14312.12
+  },
+  {
+    "user": "Christopher",
+    "avid": "25",
+    "address": "bc1qh7lptqnm4zzpvrqxumwtup82qq4htnn2qentxd",
+    "balance_sats": 7192000,
+    "balance_btc": 0.07192,
+    "revenue_btc": 0.35567562,
+    "revenue_eur": 32525.64
+  },
+  {
+    "user": "Christopher",
+    "avid": "25",
+    "address": "bc1qr0ynspq5aurj23xqw23uc5sd7xpw5qfy5y98ze",
+    "balance_sats": 12940000,
+    "balance_btc": 0.1294,
+    "revenue_btc": 0.6465,
+    "revenue_eur": 59120.80
+  },
+  {
+    "user": "ArrynBaird",
+    "avid": "13",
+    "address": "bc1qat80jxvlng5gpt2er5ghz42zrd4f3dv36zh5yd",
+    "balance_sats": 1906015,
+    "balance_btc": 0.01906015,
+    "revenue_btc": 0.0951,
+    "revenue_eur": 8695.52
+  },
+  {
+    "user": "Christopher",
+    "avid": "12",
+    "address": "bc1qszj958vn26yz0pza7ftq9r5g3edfxayf58d32f",
+    "balance_sats": 720000,
+    "balance_btc": 0.0072,
+    "revenue_btc": 0.036,
+    "revenue_eur": 3291.29
+  },
+  {
+    "avid": "PiotrBond",
+    "address": "bc1q760tha4qcccvxvxkwvhtzdjpkdsmknr97sel3j",
+    "balance_sats": 2344000,
+    "balance_btc": 0.02344,
+    "revenue_btc": 0.1172,
+    "revenue_eur": 10714.97
+  },
+  {
+    "avid": "Brown",
+    "address": "bc1q5979ns9zrhtq8j2znkf59ldmd4nxc4hamuq8ut",
+    "balance_sats": 742200,
+    "balance_btc": 0.007422,
+    "revenue_btc": 0.03711,
+    "revenue_eur": 3393.43
+  }
+]

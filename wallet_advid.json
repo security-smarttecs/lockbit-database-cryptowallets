@@ -1,0 +1,1274 @@
+[
+  {
+    "avid": "76",
+    "address": "bc1qje6xra2me5s4uw4sva6jkmwhu9m6hjuyw2m0jq",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "70",
+    "address": "bc1q3dxnkdknywvpmuhhxmnsxz2tc5ezywg94t3erl",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "70",
+    "address": "bc1qrlzpn9040u9yzpf3rzmfh856cukxket4c9dves",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "70",
+    "address": "bc1qrh5zhmd9lrauc9l0cuhmdp58cy0c3wfj79e3y7",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "70",
+    "address": "bc1q8980rpzy9f6meq8hur75ept62aug6dfrxnlwc0",
+    "incoming_sats": 5000000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.05,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "70",
+    "address": "bc1q7l5l5ku776c52vumpj2zmgkj8f6z9xyfc38jt6",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "70",
+    "address": "bc1qdf6hfhnkdkdg6e6h3hq8h5al08fw3ks4m46phw",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "70",
+    "address": "bc1q5tanumnzxuhk0vxkmaqvhqgnq6sf0855trrmjw",
+    "incoming_sats": 422110000,
+    "outgoing_sats": 0,
+    "incoming_btc": 4.2211,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "70",
+    "address": "bc1qvu5n6z3e4jfnp0fwktjml0x7urx2adpnlvrgs9",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "70",
+    "address": "bc1q2thpktzc086zke528pku5jy9l7x7wz05595zlg",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "70",
+    "address": "bc1qfp6x5pfxrqnrr5hahaw8ul3sk79637t0u2yys9",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "69",
+    "address": "bc1qgu4j3gecj843vcv0tsy9a880ru6kl3xhz2hnh4",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "69",
+    "address": "bc1qwahh9pwqadh0klmggy6hflj27dn75h2u2yan54",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "67",
+    "address": "bc1qslmfzuh6nj46qgufx7zdyvn2tvzazurhkq0fwd",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "65",
+    "address": "bc1q66gc3j2umn8zue3c8j0ehzmhe7tcqm763wj4j9",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "65",
+    "address": "bc1qwfxzku99ze72r4cujayzhekslvyy65knsk7e76",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "65",
+    "address": "bc1qgf986yv4tczraq4z9nmvke8hk4hhm0dllvahm7",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "65",
+    "address": "bc1qvyyazgj3d7rtjqvvss8ye0vdxenn6z25tgzlkl",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "65",
+    "address": "bc1qa3xp8yweveud692zf9t56jvqmlznkadp4drk5l",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "65",
+    "address": "bc1q8scd7ess4vf37wplfdaha6q92v299ulcaerjh8",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "65",
+    "address": "bc1qale5822rt5kq8s2cds0a8xet6z98y6ffgpu72m",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "65",
+    "address": "bc1q9ks759pfsg7gmrl66qpke8qds4f76l5h822tz9",
+    "incoming_sats": 1380000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0138,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "65",
+    "address": "bc1qddyzjdrv72qg5gf4k0nugwh36k007hr80683uc",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "65",
+    "address": "bc1qna3lkntltdaylku6n24alw8zrsmq4l5eqcqrrr",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "65",
+    "address": "bc1q6696y6dt6n6ygxcm4ppqszuw6ye4a99e36c3tn",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "64",
+    "address": "bc1q585qezx2j3hm4duvwhpu45qamkqk5wyq9jmfcr",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "64",
+    "address": "bc1qdgl5r3ttaq7xsgxwkwc6yj0dfrepgrdx2ykfdk",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "64",
+    "address": "bc1qps6fkn675pdepdcxjxhfg8etyxwtqnys2zwfhv",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "64",
+    "address": "bc1qzcc00fcawdpfxetdt39unemj6nke5hyjzd322w",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "63",
+    "address": "bc1q4uxh7t3j6my60r7tddss0e6qw3aayw0quatmrw",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "63",
+    "address": "bc1q800f5d2wpkea8e05k9leuu8kteedz3xyt38nru",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "59",
+    "address": "bc1q07r0rgqysr8k72r6u2zkz77zssp7fztpuau5m4",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "58",
+    "address": "bc1qmyx5956qkt02rg0slgf8g06yq7kktuys3gthzj",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "58",
+    "address": "bc1q3kez2a6zxn2jgk0szxd5uqy70k7ame2y83253e",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "57",
+    "address": "bc1qc3fpa4tyvecl06n90p7w4t3wd9g5hls26g9ph6",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "55",
+    "address": "bc1q54ulsx782mckm3cdfx93rdqyzemrx26fs8spdw",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "55",
+    "address": "bc1q0su7n5rmyzjrk402etn5nerdgffpqt4wf8473w",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "55",
+    "address": "bc1qcgsfg3ghc3f9jan86atg0pghyrvgkyk2l4nlfj",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "55",
+    "address": "bc1qhv4u2g3z5hav2qlfkejz34g899c7929nleg4c2",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "55",
+    "address": "bc1qkhmyzj4kswwhrkdrt3ww0v2cvqrzcgh2jvpt8q",
+    "incoming_sats": 465493,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.00465493,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "54",
+    "address": "bc1qc3x72v6zgmmtlu3qtz8pt5zhtaxmzgjkehprey",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "54",
+    "address": "bc1qkvtgpyu6y9q5vmfykmvtw4l8sxryqf84tv0prg",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "52",
+    "address": "bc1qptgapzfuwznq2hp6yqxakev362y3ztfp5pxmny",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "52",
+    "address": "bc1qj58nch3dgwp5aj3pyjh2sy338jh9cxulca02fe",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "52",
+    "address": "bc1q0sp205dxr8dszh38mclqermv6kpcmvsl83x733",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "48",
+    "address": "bc1qa6q5eszeu44s22tvdkkqsn3lwwpvd7rg0kvn04",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "48",
+    "address": "bc1qz0edtmg5jcfsp28amfnmfgzv8tcgk4jzcvn333",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "45",
+    "address": "bc1qnxf9f67c64dzcvxhecqeej889jxdxwfzj35drh",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "45",
+    "address": "bc1qysye46p0pam4t6fy5ej2pk7xn06shtpg0r4ch2",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "45",
+    "address": "bc1qdekdc246urga05jv7qlp8mnvvtghkfyqsc5639",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "43",
+    "address": "bc1q8ywlgeuqgm6kt60403nvu2e73uzjrsthr2eqls",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "43",
+    "address": "bc1qad9qpqrxyy203lrdalpwzh5zfr5v457swsrt0p",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "43",
+    "address": "bc1q8mhmgckl7afmehe4vj7kmej2yxdj2rzft9juk6",
+    "incoming_sats": 340000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0034,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "43",
+    "address": "bc1q87s37q5e505fmketymlxfm6t79fp4f5z3drh9a",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "43",
+    "address": "bc1q6x509d9uv6hpexzqg3lm9altwv04vv22ahnp78",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "43",
+    "address": "bc1q46m84q2p55nqht2xqm3t3ynvwltkxtgpetpgzr",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "43",
+    "address": "bc1qr7fumz0k6ha9kkgef3h02p4ghg0r7edkxzjdkf",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "43",
+    "address": "bc1qf3l9k48hvd5s3u98pqg2zhvuypq3rzwsket2qd",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "43",
+    "address": "bc1q37qarfncfnfrsatunvu028nsv5apv6hcuduq56",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "43",
+    "address": "bc1qlehelqj0yaj4scvamcuhjhdas707e5makdj9ml",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "43",
+    "address": "bc1qn4yxpzxc57apezdvp9ytjcwcygktltxnq397lx",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "42",
+    "address": "bc1qzyrrasx3cgjqme50jfu5kz0xjjheu8smy6del0",
+    "incoming_sats": 2000,
+    "outgoing_sats": 0,
+    "incoming_btc": 2e-05,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "37",
+    "address": "bc1qljgsnjpwa0jytz9m9k78a0n6myya9j0xm00k6s",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "37",
+    "address": "bc1qqle6kv4x4cmgfvgecxm9qvvddsq8x6hpsrsef0",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "37",
+    "address": "bc1qfekd7wlsmng42wf6nu0h65fgmazpapff9vdkp0",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "37",
+    "address": "bc1qhjmry5zc8g5xz2lued8q9du8sy9ld6gq68pvwv",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "37",
+    "address": "bc1qz95rdtv03d8w7s7zytlulcvk898zxdrrrt8han",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "36",
+    "address": "bc1qrpy5wvsa5gnna8qwh7qc5j90hpjtg64fq30m9y",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "36",
+    "address": "bc1qtv0qpxq5evr9d9e7l0vjyh7ptxfm6phtpuz6xh",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "36",
+    "address": "bc1q6nqv873u9csuvd5cesafzj3zndczsrh2c0adww",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "36",
+    "address": "bc1q9e9wnwpxy2tm8dyt243cpzhdpug9d042c8a9cj",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "36",
+    "address": "bc1q9nxu9djek4umxh6eu4y75ag30nczt49mevl286",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "35",
+    "address": "bc1qcf4p0hmva5uvp2uw2g38alfu4e2gjwe0ejxa79",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "32",
+    "address": "bc1q55hukz0zjel0kfkfw6mn9wk2x3ezld6vycrpgq",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "32",
+    "address": "bc1qp98aa3k45urrwf44ydevskylwtqhpzpcqpu95e",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "32",
+    "address": "bc1qcgy8wr3gq0mprjgsmd3jp09xpe4ze7tcu07km4",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "31",
+    "address": "bc1q8644xeyd7m3kuss5aq06k9p6tyqd4lxhgs8wg0",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "28",
+    "address": "bc1qe0txrmegmduq76429s9u8q2dhv95hm37s5tlw2",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "28",
+    "address": "bc1ql8lgqtnkd8rfdkpcz28uxct26t6l7g8hpkn3wx",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "28",
+    "address": "bc1q8xud2dm33vcgsk46ef2fuaacyswv70n6mz4f0f",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "28",
+    "address": "bc1q3akn8qw8cjrw0lgt4k2tqqwy4nda9rs0q76rx9",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "28",
+    "address": "bc1q9023e6zvve54u5lmv86lwx2yw6sg5ul5euyd7q",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "28",
+    "address": "bc1qfl8yh3dv3np6xx542qakjhm4fehlh7zdfltst0",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "28",
+    "address": "bc1qn9swk7xq6628vvvzwtdnnrjl29f0kuda09shnk",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "28",
+    "address": "bc1qx3e4eslyzhclzr4y4yexw3jhyw5n4xe4vakgvt",
+    "incoming_sats": 7191141,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.07191141,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "27",
+    "address": "bc1qj4wvkmggfdpa60tk7ag75zd4yjr77zqa0r69yq",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "27",
+    "address": "bc1qu6rpk25x346vysvv0n6yuch7j3836txutgpuw2",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "27",
+    "address": "bc1qxn4gdlgygejuyjcdnm6q6vgr993g6wckjdl6ke",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1q3n6cf50qhs5sc62724mzhgfw2dafnytmth5827",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qmydvt6xz9rkw36yvw2qztgxexz8dp40pxgklhq",
+    "incoming_sats": 10400000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.104,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qndg8dm65xdcqtzl6teg2dfeyqeean5hap9878z",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1q2qex08nvyr00zgdptuxlum7zj3wn9c03chejxt",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qf8m34g20x4pf0497vfnk6zh47vrfewlyxr6w6l",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qy3jq2l0ysh4ywnt88e4tz24sjayhp74r52r5aa",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1q7yzzz40x5phwcacs7vps5c7ap57nch72gmjp3t",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qlslvlfxnus5spg8sd9w8603yp2eqly2jgs6ul3",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qmxvnyvefygv9fvx80k0gvs48kel3dnr5hkv4ld",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1q6dtmy84rgndnx2k9ayysqmmnxn3lrympzd5neu",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1q5xpf5anwuz75vhlc00g2ec6teu3zvud3axeqcw",
+    "incoming_sats": 4621000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.04621,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1q5xt7padm8nmytf8h048uaw6el2vdn0h8fj8ju4",
+    "incoming_sats": 9468000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.09468,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qcc0uyc3et0xvmrvtw43chwl9x8ufk7n556gzfs",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qp0npgtkgq5q4xvxyhv0sutq80fm2qlq4lpmmpp",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qgdt4vk5pup733lax0l57ul7d5g6332vv6x5ytd",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qthvjqlelj2fkr8d6u06mq27je07j9hek2g0nj2",
+    "incoming_sats": 3139000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.03139,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1q7avpf0rlrmsetzu55y6ptl2ccaak8d79tdq8g6",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qqhulqzn7fkewr6h8kjagu05jekn80tp7cky5j6",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qavsz806ur4gzdufyzlf5ssg9m6j0zwl626sjfk",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qkusslhuvaxjqcyvk8ql5uzgsx9ql5xsmmr5hfj",
+    "incoming_sats": 2901000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.02901,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1q8zk3s923splyw7gs6lzxldtz5s0axu96nkmjvv",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qz042rmjns23twwvafc9wncfpq708g2gg4v9v4f",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1ql5r0gyddgsjmtw3hzd4lp5t3h8ly4z8au9jmp2",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qv4j45knlkeazg0n0ymv3e3rpcv4gc8qqmrhp20",
+    "incoming_sats": 3113000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.03113,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qdx4anwflvaaxyce0afzwzcxdpcxla5put066ll",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qg3kqe0tf3h88aq7mf8rnrg8xhxa09t0wc65shs",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qh7lptqnm4zzpvrqxumwtup82qq4htnn2qentxd",
+    "incoming_sats": 7192000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.07192,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qnx3hhj4rw985tpx0782h3mh0nhffpqg0x4fwag",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1q4gu6cvplqt582sadz4h2k8vtmt980sqeydntec",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "25",
+    "address": "bc1qr0ynspq5aurj23xqw23uc5sd7xpw5qfy5y98ze",
+    "incoming_sats": 12940000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.1294,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "21",
+    "address": "bc1qdfhhlzm5u5zm52vc056dktg9k6lah64uw5nkte",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "21",
+    "address": "bc1q2kjg4swtk66pd5mtv59a4kma0trn2fkdyw8y3n",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "21",
+    "address": "bc1q4uns3xnxg8ady3m2x98g2efumu6xt9hk9c9p96",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "21",
+    "address": "bc1qjymhawmvlms2fsp8cecn06p0rnv5zucgvwayl0",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "21",
+    "address": "bc1q8t2hjln7manplkclqe5m63fju3888uhmverzza",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "18",
+    "address": "bc1qkhcdz7l9m6zq820ef4czv7vxjn6h7ucpxywxlj",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "18",
+    "address": "bc1q0k03zaq76trg6gu62qexayf6092c58567sx0ym",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "18",
+    "address": "bc1qm2nl79n6d7utcnaua9q8nty6cm698qsvft6zgd",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "18",
+    "address": "bc1q5l45w53wzqee7y56sunht6xh4s6r6x9ktkgp0e",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "17",
+    "address": "bc1quxjgkjat5ccfv0uv9xj242aa4k3k6dvkm4fhhp",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "15",
+    "address": "bc1qafltd75hrlgqpan5k9hgcj7sgnumtd4n5as9t0",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "15",
+    "address": "bc1qs7yvp7m7cf5xw9nrx2at0z36h54e7a8yp4p6a0",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "15",
+    "address": "bc1qe8azjne464rrggzhagvg9rag9hmv82nw0t7z4n",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "15",
+    "address": "bc1qew05f66hfq7jm32w7g5sh0fz7fxtltmetvvm5z",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "15",
+    "address": "bc1qr7afzujtnvu6gm3u0p9a327lr5hfd4hkpp0gs2",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "15",
+    "address": "bc1qzmpcta5achwa2v23rju0ue9fh9lj2fux3j3vlt",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "15",
+    "address": "bc1qagrhssy5snm0208gh5nqh86vhank2u8r5qkqy5",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "14",
+    "address": "bc1qsv9lhy4y7empyps358c4gvr0ng8ae5c8cxp8rz",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "13",
+    "address": "bc1qqjy8qyaucwludqky9p6jy2h7egqgd0e0kdr3mc",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "13",
+    "address": "bc1qwaluk55r0lxxc4dwvj8873a9l62u3ut2ktlnka",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "13",
+    "address": "bc1qat80jxvlng5gpt2er5ghz42zrd4f3dv36zh5yd",
+    "incoming_sats": 1906015,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.01906015,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "13",
+    "address": "bc1qlcpcjsw70w0ff8cxz6ankgjpqauthu2c49sx57",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "13",
+    "address": "bc1qevtlcm9wtlcj4848k9klamvzy7uc9us85mpy5n",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1qyxjq5fzuwyk26ryjgsuv292na0eag05zlz2yk8",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1qjxxjkttmhksk4lz44jjlxqt2s0tv2v9wpmcuwy",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1qzzrmsa9ns9lf2hwufvnw839yh0h7qjsjlr405w",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1qkacj7sqp50gep4tpuqn2ud0py7mer4k0898w5t",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1q88ada47ek3k6quf4udwp84klazff2avhhgyfc5",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1qz2h6e9fct4drpcrpua3um0uvzk3ptzppvrzpyy",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1qg93m0kwvt8l4tcx4mkqy2m3sawdlj9gnvak8h4",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1qjctkrm62l6rp37w7pv4wz4h2pwsgmhqqhxgasn",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1qszj958vn26yz0pza7ftq9r5g3edfxayf58d32f",
+    "incoming_sats": 720000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0072,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1qzxzpuptravtkzu3wlzn5tgmec5yvvwvumavxgc",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1q67s4hj0jfvy24k3nqqfh854gsfjgjpfktxdhw5",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1qyfdjgcmp4dq99cq38jlg0ajyvdju4tt84ylfxx",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1q760tha4qcccvxvxkwvhtzdjpkdsmknr97sel3j",
+    "incoming_sats": 2344000,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.02344,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "12",
+    "address": "bc1qgsdaxcsyy5amx09g4vcrkvkq4td9llsv9ufk5r",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "10",
+    "address": "bc1q5979ns9zrhtq8j2znkf59ldmd4nxc4hamuq8ut",
+    "incoming_sats": 742200,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.007422,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "10",
+    "address": "bc1qrk3qugmpxrdxzm6ndgj5hu5szdlng9avveyw3g",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "1",
+    "address": "bc1qectj2alvyz8phaf7ex5m87zh9mu78ccd4dlhgp",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  },
+  {
+    "avid": "1",
+    "address": "bc1qdxjvasjdddtkgnycgqshczgys3ef2l7kcnpr89",
+    "incoming_sats": 0,
+    "outgoing_sats": 0,
+    "incoming_btc": 0.0,
+    "outgoing_btc": 0.0
+  }
+]
