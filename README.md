@@ -16,4 +16,4 @@ A brief explanation of the files:
 These data may be used by anyone for their own research purposes. A mention would be appreciated.  
 You can find our own brief analysis of the LockBit database leak here:
 
-* v[https:/smarttecs.com/posts/2025-002-lockbit-database-analysis/](https:/smarttecs.com/posts/2025-002-lockbit-database-analysis/)
+* [https:/smarttecs.com/posts/2025-002-lockbit-database-analysis/](https:/smarttecs.com/posts/2025-002-lockbit-database-analysis/)
